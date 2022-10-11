@@ -14,7 +14,7 @@
     
     <div class="form-class">
         <h3>Tambah Mahasiswa Baru</h3>
-        <form action="" method="">
+        <form action="tambah.php" method="post">
             
             <label for="">Nama Lengkap</label><br>
             <input type="text" name="nama" class="form-text"><br>
